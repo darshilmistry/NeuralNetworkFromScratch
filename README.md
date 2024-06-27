@@ -7,4 +7,10 @@ This is a guided project I am creating to deepen my understanding regarding the 
 I am following the tutorial series created by Sentdex on their youtube channel.
 
 Channel Link: https://youtube.com/@sentdex \
-Tutorial Playlist:https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+Tutorial Playlist: https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
+# Development logs
+
+## Day 1
+
+Created the basic layer code with forward pass.
